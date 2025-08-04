@@ -36,9 +36,8 @@ It’s designed to practice and demonstrate SQL functions through **String manip
 
 ## ⚙️ Technologies Used
 
-- PostgreSQL 14+
-- SQL (PostgreSQL dialect)
-- pgAdmin / DBeaver (recommended for query visualization)
+- PostgreSQL
+- SQL (PostgreSQL)
 - GitHub for version control
 
 ---
