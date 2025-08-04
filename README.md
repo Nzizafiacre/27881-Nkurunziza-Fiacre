@@ -1,8 +1,8 @@
 # Assignment - PostgreSQL Query Execution
 
 ## Student Information
-- **Student ID:** 29024
-- **Name:** Imanishimwe jean Claude 
+- **Student ID:** 27881
+- **Name:** Nkurunziza Fiacre
 - **Departement:** Networking
 - **Course:** Database Management System
 
@@ -94,7 +94,7 @@ Over **50 SQL queries** included in `exercise_queries.sql` to test all edge case
 
 
 
-**📌 Author:** Imanishimwe jean Claude 
+**📌 Author:** Nkurunziza Fiacre
 **📚 Course:** Database Management System
 
 
