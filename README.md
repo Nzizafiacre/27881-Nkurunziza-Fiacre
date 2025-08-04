@@ -8,7 +8,16 @@
 
 # 📊 PostgreSQL Employee & Project Management Database
 
-A robust SQL-based relational database project built with PostgreSQL, demonstrating powerful use of **String**, **Numeric**, **Date/Time**, and **Conditional** functions through 50+ real-world queries. This project serves as a practical learning toolkit for mastering complex SQL logic and relational data modeling.
+A hands-on SQL project using **PostgreSQL** that explores over 50 practical queries using **String**, **Numeric**, **Date/Time**, and **Conditional** functions. This project is ideal for students, developers, and data analysts looking to strengthen their SQL skills with real-world examples and clean query logic.
+
+---
+
+## 🧠 What You’ll Learn
+
+- How to write advanced SQL queries in PostgreSQL.
+- Effective use of SQL **string manipulation**, **math operations**, **date calculations**, and **conditional logic**.
+- Realistic query design for employee and project management databases.
+- Best practices in SQL formatting and data function usage.
 
 ---
 
