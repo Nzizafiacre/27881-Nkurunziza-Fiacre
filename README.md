@@ -97,7 +97,7 @@ Over **50 SQL queries** included in `exercise_queries.sql` to test all edge case
 - Basic knowledge of SQL
 
 
-**📌 Author:** Nkurunziza Fiacre
+**📌 Author:**  **Nkurunziza Fiacre**
 **📚 Course:** Database Management System
 
 
